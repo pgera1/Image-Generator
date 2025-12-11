@@ -27,3 +27,5 @@ The generated image will appear on the right.
 Run in Google Colab
 
 Open the notebook directly in Colab:
+
+https://colab.research.google.com/drive/1vfPXeokxv5sZjbKIFKLgHHJ7Q3WkSt3Z?usp=sharing
